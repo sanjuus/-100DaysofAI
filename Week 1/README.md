@@ -17,3 +17,31 @@
 - The scatter plot which tells how data is scattered
 - The plot which shows the linear line which seperated the classes.
 - Finally , The output with 200 epochs and 0.3 learning rate
+
+## 👉 Day 2
+
+### Topic
+- Bank Churn Prediction using Multi-Layer Perceptron (MLP)
+
+### What I Learned
+
+- What is a Multi-Layer Perceptron (MLP)
+- How MLP differs from a simple perceptron
+- Why MLP is powerful for learning non-linear decision boundaries
+- The role of activation functions, hidden layers, backpropagation, and optimizers in MLP
+- Why MLPs are suitable for structured/tabular data like customer churn prediction
+- The challenge of class imbalance and why evaluation metrics beyond accuracy (Precision, Recall, F1) are important
+
+### Practical Implementation
+
+- Performed scaling and encoding on the dataset
+- Explored data distributions and patterns using visualizations
+- Plotted countplots for exited vs gender and geography
+- Built and trained an MLP model using PyTorch
+- Evaluated the model on Accuracy, Precision, Recall, and F1-score
+
+### Results
+- Test Accuracy: 0.8640
+- Test Precision: 0.8111
+- Test Recall: 0.4324
+- Test F1-Score: 0.5641
