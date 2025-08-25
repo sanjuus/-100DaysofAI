@@ -3,15 +3,18 @@
 ## 👉 Day 1
 
 ### Topic 
+
 - Perceptron and Modern Perceptron
 
 ### What I Learned
+
 - What is perceptron?
 - Gemotric view of perceptron
 - Perceptron as a model
 - Limitations of Perceptron
 
 ### Practical Implementaton
+
 - Implemented the perceptron using PyTorch nn Module
 - The modern perceptron using sigmoid function and Binary Cross Entropy.
 - The scatter plot which tells how data is scattered
@@ -21,6 +24,7 @@
 ## 👉 Day 2
 
 ### Topic
+
 - Bank Churn Prediction using Multi-Layer Perceptron (MLP)
 
 ### What I Learned
@@ -41,7 +45,31 @@
 - Evaluated the model on Accuracy, Precision, Recall, and F1-score
 
 ### Results
+
 - Test Accuracy: 0.8640
 - Test Precision: 0.8111
 - Test Recall: 0.4324
 - Test F1-Score: 0.5641
+
+
+## 👉 Day 3
+
+### Topic
+
+Scatter Plot using Matplotlib and seaborn
+
+### what I learned
+
+- what is scatter plot?
+- How to create a scatter plot using matplotlib and seaborn
+- When to use?
+- Where to use?
+
+### Practical Implementation
+
+- Basic scatter plot
+- markers
+- colors
+- transparency
+- colormap
+- Adding Trend line
