@@ -56,7 +56,7 @@
 
 ### Topic
 
-Scatter Plot using Matplotlib and seaborn
+- Scatter Plot using Matplotlib and seaborn
 
 ### what I learned
 
@@ -73,3 +73,23 @@ Scatter Plot using Matplotlib and seaborn
 - transparency
 - colormap
 - Adding Trend line
+
+
+## 👉 Day 4
+
+### Topic
+
+- Gradient descent Algorithm
+
+### What I Learned
+
+- What is Grdaient descent?
+- Why we use it?
+- Mathematical Intution
+- Calculating slopes and intercepts
+- Things affect gradient descent like dataset, learning rate, epochs
+
+### Practical Implementation
+- Implemented gradient descent using linear regression
+- Created hyperbola to see the loss in 3D
+- understanding epochs and learning rate
