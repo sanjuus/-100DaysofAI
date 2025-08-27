@@ -93,3 +93,29 @@
 - Implemented gradient descent using linear regression
 - Created hyperbola to see the loss in 3D
 - understanding epochs and learning rate
+
+
+## 👉 Day 5
+
+### Topic
+
+- Types of Gradient Descent Algorithms
+
+### What I Learned
+
+- Types of Gradient Descent Algorithms
+
+  - Batch Gradient Descent
+  - Stochastic Gradient Descent
+  - Mini Batch Gradient Descent
+- Advantages of every algorithm
+- Disadvantages of every algorithm
+- Where to use?
+- Mathematical Intution of every algorithm
+- Grpahical Intution of every algorithm
+
+### Practical Implementation
+- Implement all the types of Gradient Descent algorthims from scratch
+- Understood epoches and learning rate by implementing and testing algorithms
+- Observed the graphs obtained by them
+- r2 score fluctuation in different algorithms
