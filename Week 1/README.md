@@ -115,7 +115,26 @@
 - Grpahical Intution of every algorithm
 
 ### Practical Implementation
+
 - Implement all the types of Gradient Descent algorthims from scratch
 - Understood epoches and learning rate by implementing and testing algorithms
 - Observed the graphs obtained by them
 - r2 score fluctuation in different algorithms
+
+
+## 👉 Day 6
+
+- Backpropagation in Neural Networks
+
+### What I Learned
+
+- what is backkproagation?
+- why we use it?
+- mathematical intution of backpropagation
+- Understood how we can use it with different optimizers
+
+## Practical Implementation
+
+- Implemented backpropagtion from scratch
+- Using numpy and pandas I craeted neurons and parameters without using frameworks
+- Observed how the loss reducing by tuning learning rate and epochs
