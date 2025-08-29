@@ -138,3 +138,24 @@
 - Implemented backpropagtion from scratch
 - Using numpy and pandas I craeted neurons and parameters without using frameworks
 - Observed how the loss reducing by tuning learning rate and epochs
+
+
+## 👉 Day 7
+
+- Intoverts and Extroverts - Logistic Regression
+
+### What I Learned
+
+- About Logostic Regression
+- Mathematical Intution
+
+### Practical Implementation
+
+- Implemented Introvertes to extroverts project using Linear regression
+- Did Data cleaning, Data Visualization, Data Scaling, Data Encoding, and other related to pipeline
+- Trained the model
+- Predictions using Model
+
+### Results : 
+- Accuracy Score (without Tuning) : 0.968421044218223
+- Accuracy Score (with Tuning)    : 0.968421052631579
