@@ -1,6 +1,6 @@
 # Week 2 🚀
 
-##  👉 Week 1
+##  👉 DAY 1
 
 ### Topic
 
