@@ -36,6 +36,24 @@
 
 ### Practical Implementation
 
+##  👉 DAY 3 | streak 10
+
+- Standardization (z-scaling)
+
+### what I learned 
+
+- what is standardization?
+- why do we use it?
+- when to use?
+- matheatical Intution
+- Advantages and Disadvantages
+
+### Practical Implementation
+
+- Demonstrated Standardization
+- Comapred with histplots and scatterplots
+- Understanding the data before and after scaling
+
 - Implemented Ctaboost for the competition
 - Feature engineering - scaled, transformed, extracted
 - Model building, prediction, evaluation
