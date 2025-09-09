@@ -36,6 +36,12 @@
 
 ### Practical Implementation
 
+- Implemented Catboost for the competition
+- Feature engineering - scaled, transformed, extracted
+- Model building, prediction, evaluation
+- Model submission
+
+
 ##  👉 DAY 3 | streak 10
 
 - Standardization (z-scaling)
@@ -53,8 +59,3 @@
 - Demonstrated Standardization
 - Comapred with histplots and scatterplots
 - Understanding the data before and after scaling
-
-- Implemented Ctaboost for the competition
-- Feature engineering - scaled, transformed, extracted
-- Model building, prediction, evaluation
-- Model submission
