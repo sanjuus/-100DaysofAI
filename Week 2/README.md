@@ -1,6 +1,6 @@
 # Week 2 🚀
 
-##  👉 DAY 1
+##  👉 DAY 1 | streak 8
 
 ### Topic
 
@@ -21,3 +21,22 @@
 - Handled the problem by applying "ReLU activation function"
 - Observed how the weights changed by handling the problem
  
+
+##  👉 DAY 2 | streak 9
+
+### Topic
+
+- BeatsPerMinutes - kaggle competition (playground series - 9)
+
+### What I Learned
+
+- About the music data given in the dataset
+- Feature extraction
+- catboost model
+
+### Practical Implementation
+
+- Implemented Ctaboost for the competition
+- Feature engineering - scaled, transformed, extracted
+- Model building, prediction, evaluation
+- Model submission
