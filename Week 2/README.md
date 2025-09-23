@@ -73,9 +73,9 @@
 
 - what is categorical encoding
 - types of categorical encoding
- - Ordinal Encoding
- - OneHot Encoding
- - Label Encoding
+    - Ordinal Encoding
+    - OneHot Encoding
+    - Label Encoding
 - How to use them?
 
 ### Practical Implementation
