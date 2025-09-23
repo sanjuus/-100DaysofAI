@@ -44,9 +44,11 @@
 
 ##  👉 DAY 3 | streak 10
 
+### Topic
+
 - Standardization (z-scaling)
 
-### what I learned 
+### What I Learned 
 
 - what is standardization?
 - why do we use it?
@@ -59,3 +61,25 @@
 - Demonstrated Standardization
 - Comapred with histplots and scatterplots
 - Understanding the data before and after scaling
+
+
+##  👉 DAY 4 | streak 11
+
+### Topic 
+
+- categorical Encoding
+
+### what I Learned
+
+- what is categorical encoding
+- types of categorical encoding
+ - Ordinal Encoding
+ - OneHot Encoding
+ - Label Encoding
+- How to use them?
+
+### Practical Implementation
+
+- Implemented all three types of categorical encoding
+- observed changes
+- demonstarted using the sklearn.preprocessing module
