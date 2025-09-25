@@ -83,3 +83,26 @@
 - Implemented all three types of categorical encoding
 - observed changes
 - demonstarted using the sklearn.preprocessing module
+
+
+##  👉 DAY 5 | streak 12
+
+### Topic
+
+- Sklearn pipeline
+
+### What I learned
+
+- what is sklearn pipeline?
+- how to create it using
+     - pipeline class
+     - make_pipeline class
+- how to add transformers to pipeline
+- how to display pipleine using set_config
+
+### Practical Implementation
+
+- Demonstarted pipelines
+- Implemnted weather classfication classifiaction using pipelines
+- displayed the pipeline using set_config class
+- predicted the weather succesfully
