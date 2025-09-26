@@ -117,12 +117,12 @@
 ### What I learned 
 
 - I learn all the mathematical Transformations
-     1. Function Transformations
+     1. Function Transformations : 
         log Transformer,
         Reciprocal Transformer,
         Sqtt Transformer,
         Custom Transformer
-     2. Power Transformations
+     2. Power Transformations : 
         Box-Cox Transfromer,
         yeo-Johnson Transformer
      3. Quantile Transformations
