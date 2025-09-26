@@ -134,3 +134,27 @@
 - Observed the changes in the data distribution.
 - Understood all the transforms through results of histogram.
 
+
+##  👉 DAY 7 | streak 14
+
+### Topic 
+
+- Binning and Binarization
+
+### What I learned
+
+- what is binning?
+- what are the types of binning?
+      - Supervised Binning : Decision Tree binning
+      - Unsupervised Binning : Uniform,quantile and kmeans binning
+      - Custom Binning
+- Why we use Binning and when we use binning?
+- what is Binarization?
+- when to use it?
+
+### Practical Implementation
+
+- Implemented Unsupervised Binning (most useful)
+- Understood bins through Barplots
+- Applied and observed through a dataset
+- Understood Binearization and implemnetd Binarization.
