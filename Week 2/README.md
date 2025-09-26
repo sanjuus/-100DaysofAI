@@ -118,13 +118,13 @@
 
 - I learn all the mathematical Transformations
      1. Function Transformations
-                - log Transformer
-                - Reciprocal Transformer
-                - Sqtt Transformer
-                - Custom Transformer
+        log Transformer,
+        Reciprocal Transformer,
+        Sqtt Transformer,
+        Custom Transformer
      2. Power Transformations
-                - Box-Cox Transfromer
-                - yeo-Johnson Transformer
+        Box-Cox Transfromer,
+        yeo-Johnson Transformer
      3. Quantile Transformations
 - Where to apply which trabsforrmer?
 - Understood all the transformers through sklearn
