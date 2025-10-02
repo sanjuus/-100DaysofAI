@@ -44,3 +44,28 @@
 - Implemented KNN imputer and Iterative imputer
 - observed distributions using plots of kde
 - understood better by implementing from sklearn classes
+
+
+## 👉 Day 3 | streak 17
+
+### Topic
+
+- Outliers and Outliers Handling
+
+### What I Learned
+
+- What are outliers?
+- Handling Techniques
+       - Z-Score Method : Trim & Cap
+       - IQR Method : Trim & Cap
+       - Percentile Method : Trim & Cap
+- various techniques to observe
+       - box plots
+       - Distributions
+       - 5 way summary
+
+### Practical Implementation
+
+- Implemented all the handling techniques
+- observed effects using various techniques
+- Summarized before and after capping and trimming
