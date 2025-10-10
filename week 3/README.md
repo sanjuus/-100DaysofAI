@@ -69,3 +69,47 @@
 - Implemented all the handling techniques
 - observed effects using various techniques
 - Summarized before and after capping and trimming
+
+
+## 👉 Day 4 | streak 18
+
+### Topic 
+
+- simple linear regression
+
+### What I learned
+
+- What is simple linear regression?
+- Why do we use it?
+- Solved Closed form solution (OLS) for SLR
+- Understood Gemotrical Intution
+- studied sklearn class for SLR
+
+### Practical Implementation
+
+- Implemneted simple linear regression from scratch
+- Implemented simple linear regression using sklearn
+- Observed the regression lines for different datasets using plots
+- performed metrics to evalute those models.
+
+
+## 👉 Day 5 | streak 19
+
+### Topic
+
+- Multiple Linear regression
+
+### What I learned
+
+- What is multiple linear regression(MLR)
+- why do we use it?
+- solved closed form solution(OLS) for MLR
+- Understood Gemotrical Intution
+- Studied sklearn class for MLR
+
+###Practical implementation
+
+- Implemneted multiple linear regression from scratch
+- Implemented multiple linear regression using sklearn
+- Observed the regreession lines for different datasets using plots
+- performed metrics to evalute those models.
