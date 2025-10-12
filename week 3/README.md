@@ -113,3 +113,24 @@
 - Implemented multiple linear regression using sklearn
 - Observed the regreession lines for different datasets using plots
 - performed metrics to evalute those models.
+
+
+## 👉 Day 6 | streak 20
+
+### Topic 
+
+- Polynomial Regression
+
+### What I Learned
+
+- What is polynomial Regression?
+- Why do we need it?
+- about polynomial class and it's attributes in sklearn
+- why polynomial regression is considered as linear?
+- Gemotrical Intution and Mathematical Intution
+
+### Practical Implementation
+
+- Implemented polynomial regression using sklearn
+- Difference between linear and polynomial regression
+- Observed best-fit line using plots
