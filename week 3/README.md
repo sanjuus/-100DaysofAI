@@ -134,3 +134,24 @@
 - Implemented polynomial regression using sklearn
 - Difference between linear and polynomial regression
 - Observed best-fit line using plots
+
+
+## 👉 Day 7 | streak 21
+
+- Ridge Regrssion (L2 Regularization)
+
+### What I Learned
+
+- What is Ridge Regression?
+- Why is it called as L2 Regularization?
+- Why do we use it?
+- Solved Ridge using OLS and Gradient Descent Methods
+- Gemotrical Intution of Ridge
+
+### Practical Implementation
+
+- Implemented Ridge class(OLS) from scratch 
+- Implemented Ridge class(Gradient Descent) from scratch
+- Implemented using Ridge Class in sklearn
+- Plotted Regression lines and Observed differences
+- Understood better by plotting. 
