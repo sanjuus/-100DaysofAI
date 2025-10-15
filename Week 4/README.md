@@ -1,6 +1,6 @@
 # Week 4 🚀
 
-##👉 Day 1 | Streak 22
+## 👉 Day 1 | Streak 22
 
 ### Topic
 
