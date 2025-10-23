@@ -40,3 +40,26 @@
 - Implemented Elastic Net using a dataset
 - Observed eature importances using plots
 - observed difference between ridge,lasso and elastic net
+
+
+## 👉 Day 3 | Streak 24
+
+### Topic
+
+- Binomial Logistic Regression
+
+### What I Learned
+
+- What is logistic Regression
+- What is Binomial Logistic Regression
+- Mathematical Intution
+- Gemotrical Intution
+- Learned binary cross entropy and sigmoid function
+- Derivative of sigmoid function
+
+### Practical Implementation
+
+- Implemented binomial logistic Regression from scratch
+- Understood coefficents and intercepts
+- Implemnted mathematical formulations in the code
+- Plotted Regression Model Line using seaborn and matplotlib
