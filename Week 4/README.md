@@ -105,3 +105,25 @@
 - Understood coefficents and intercepts
 - Implemnted mathematical formulations in the code
 - Plotted Regression Model Line using seaborn and matplotlib
+
+
+## 👉 Day 6 | Streak 27
+
+### Topic 
+
+- Decison Tree Classifier
+
+### What I learned
+
+- What is Decison Tree?
+- Why Decison Trees and it's limitations.
+- What is Decison Tree classifier?
+- Intution of Decision Tree classifier with an example.
+- Mathematical Intution : Entropy, Information Gain, Gini Index
+
+### Practical Implementation
+
+- Implemented a Decison Tree Classifier
+- Performed "Loan will taken by customer or not" by uing Decision Tree classifier
+- Also worked on hyperparameters to check the changes in the metrics
+- Observed tuning will make decison tree classifier work well instead of overfitting
