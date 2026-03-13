@@ -127,3 +127,24 @@
 - Performed "Loan will taken by customer or not" by uing Decision Tree classifier
 - Also worked on hyperparameters to check the changes in the metrics
 - Observed tuning will make decison tree classifier work well instead of overfitting
+
+
+## 👉 Day 7 | Streak 28
+
+### Topic 
+
+- Decision Tree Regressor
+
+### What I Learned
+
+- What is Decison Tree?
+- Why Decison Trees, it's limitations, advantages and Disadvantages
+- What is Decision Tree Regressor?
+- Intution of Decision Tree Regressor with an example.
+- Mathematical Intution of Decision tree regressor
+
+### Practical IMplementation
+
+- Implemented a Decision Tree Regressor
+- Performed "Medical Insuarance Cost" prediction using Decision Tree Regressor
+- Also worked on hyperparameters to check the changes in the metrucs
