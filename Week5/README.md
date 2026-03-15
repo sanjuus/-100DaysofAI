@@ -41,3 +41,26 @@
 - Built a "student exam scores" predictor using voting regressor
 - Understood Hyperparameters and tuning the model
 - Observed the changes in outputs using regression metrics
+
+
+## 👉 Day 3 | Streak 31
+
+### Topic 
+
+- Bagging Classifier
+
+### What I Learned
+
+- What is Bagging and how bagging works?
+- Why it is called as bootstrap aggregator?
+- Out-of-bag (OOB) sample
+- Advantages and Disadvantages
+- What is Bagging Classifier and how it works?
+
+### Practical Implementation
+
+- Implemented Bagging Classifier
+- Built a "Heart Disease Predictor" using Bagging Classifier
+- Hyperparameters and tuning of Bagging Classifier
+- OOB Evaluation
+- Observed Changes using classification metrics 
