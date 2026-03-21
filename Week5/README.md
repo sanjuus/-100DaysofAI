@@ -87,3 +87,36 @@
 - Hyperparameters and tuning of bagging Regressor
 - OOB Evaluation
 - Observed changes using Regression metrics
+
+
+## 👉 Day 5 | Streak 33
+
+### Topic
+
+- Random Forest Classifier
+
+### What I Learned
+
+### Prcatical Implementation
+
+
+## 👉 Day 6 | Streak 34
+
+### Topic
+
+- Random Forest Regressor
+
+### What I Learned
+
+- What is Random Forest?
+- Why it is called Random Forest("random","Forest")
+- Random Feature Selection
+- Advantages and Disadvantages
+- Understood Random Forest Regressor
+
+### Practical Implementation
+
+- Implemeneted Random Forest Regressor
+- Built a "salary Predictor" using Random Forest regressor
+- Hyperparametrs and Tuning
+- Observed Changes Using regression metrics
