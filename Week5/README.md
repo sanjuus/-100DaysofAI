@@ -64,3 +64,26 @@
 - Hyperparameters and tuning of Bagging Classifier
 - OOB Evaluation
 - Observed Changes using classification metrics 
+
+
+## 👉 Day 4 | Streak 32
+
+### Topic
+
+- Bagging Regressor
+
+### What I Learned
+
+- What is Bagging and how bagging works?
+- Why it is called as bootstrap aggregator?
+- Out-of-bag (OOB) sample
+- Advantages and Disadvantages
+- What is Bagging Regressor and How it works ?
+
+### Practical Implemntation
+
+- Implemented Bagging Regressor
+- Built a "Salary Predictor" using Bagging Regressor
+- Hyperparameters and tuning of bagging Regressor
+- OOB Evaluation
+- Observed changes using Regression metrics
