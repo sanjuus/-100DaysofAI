@@ -97,8 +97,18 @@
 
 ### What I Learned
 
+- What is Random Forest?
+- Why it is called Random Forest("random","Forest")
+- Random Feature Selection
+- Advantages and Disadvantages
+- Understood Random Forest Classifier
+
 ### Prcatical Implementation
 
+- Implemeneted Random Forest Classifier
+- Built a "Weather Classifier" using Random Forest regressor
+- Hyperparametrs and Tuning
+- Observed Changes Using regression metrics
 
 ## 👉 Day 6 | Streak 34
 
